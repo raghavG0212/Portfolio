@@ -156,7 +156,7 @@ const projects = [
       },
     ],
     image: smartBallot,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/raghavG0212/Smart-Ballot",
   },
   {
     name: "Blog Verse",
@@ -177,7 +177,7 @@ const projects = [
       },
     ],
     image: blogverse,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/raghavG0212/BLOGVERSE",
   },
   {
     name: "Vista Gate",
@@ -198,7 +198,7 @@ const projects = [
       },
     ],
     image: vistagate,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/raghavG0212/Vistagate",
   },
 ];
 
