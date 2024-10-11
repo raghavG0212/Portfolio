@@ -18,6 +18,8 @@ import sql from "./tech/sql.png";
 import java from "./tech/java.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
+import dps from "./dps.png";
+import chitkara from "./chitkara.png";
 import blogverse from "./blogverse.png";
 import smartBallot from "./smartBallot.png";
 import vistagate from "./vistagate.png";
@@ -43,6 +45,8 @@ export {
   java,
   redux,
   tailwind,
+  dps,
+  chitkara,
   blogverse,
   vistagate,
   smartBallot
