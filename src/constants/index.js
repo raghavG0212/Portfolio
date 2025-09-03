@@ -138,7 +138,7 @@ const technologies = [
 
 const projects = [
   {
-    name: "Smart Ballot",
+    name: "EVkendra",
     description:
       "A web-based platform that allows administrators to create and manage elections, declare results, and oversee candidates, while users can participate by casting their votes. Each user is provided with a unique voter ID for secure voting.",
     tags: [
@@ -156,7 +156,7 @@ const projects = [
       },
     ],
     image: smartBallot,
-    source_code_link: "https://github.com/raghavG0212/Smart-Ballot",
+    source_code_link: "https://github.com/raghavG0212/EVKendra-Online-Voting-System",
   },
   {
     name: "Blog Verse",
